@@ -1,0 +1,7 @@
+E:\LTIC#\CsharpDay2\ExceptionHandlingEx\bin\Debug\ExceptionHandlingEx.exe.config
+E:\LTIC#\CsharpDay2\ExceptionHandlingEx\bin\Debug\ExceptionHandlingEx.exe
+E:\LTIC#\CsharpDay2\ExceptionHandlingEx\bin\Debug\ExceptionHandlingEx.pdb
+E:\LTIC#\CsharpDay2\ExceptionHandlingEx\obj\Debug\ExceptionHandlingEx.csproj.CoreCompileInputs.cache
+E:\LTIC#\CsharpDay2\ExceptionHandlingEx\obj\Debug\ExceptionHandlingEx.exe
+E:\LTIC#\CsharpDay2\ExceptionHandlingEx\obj\Debug\ExceptionHandlingEx.pdb
+E:\LTIC#\CsharpDay2\ExceptionHandlingEx\obj\Debug\ExceptionHandlingEx.csprojAssemblyReference.cache

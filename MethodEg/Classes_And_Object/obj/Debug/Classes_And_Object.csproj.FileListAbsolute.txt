@@ -1,0 +1,7 @@
+E:\LTIC#\MethodEg\Classes_And_Object\bin\Debug\Classes_And_Object.exe.config
+E:\LTIC#\MethodEg\Classes_And_Object\bin\Debug\Classes_And_Object.exe
+E:\LTIC#\MethodEg\Classes_And_Object\bin\Debug\Classes_And_Object.pdb
+E:\LTIC#\MethodEg\Classes_And_Object\obj\Debug\Classes_And_Object.csprojAssemblyReference.cache
+E:\LTIC#\MethodEg\Classes_And_Object\obj\Debug\Classes_And_Object.csproj.CoreCompileInputs.cache
+E:\LTIC#\MethodEg\Classes_And_Object\obj\Debug\Classes_And_Object.exe
+E:\LTIC#\MethodEg\Classes_And_Object\obj\Debug\Classes_And_Object.pdb

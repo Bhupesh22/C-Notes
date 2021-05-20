@@ -1,0 +1,7 @@
+E:\LTIC#\MiniProject\MiniProject\bin\Debug\MiniProject.exe.config
+E:\LTIC#\MiniProject\MiniProject\bin\Debug\MiniProject.exe
+E:\LTIC#\MiniProject\MiniProject\bin\Debug\MiniProject.pdb
+E:\LTIC#\MiniProject\MiniProject\obj\Debug\MiniProject.csprojAssemblyReference.cache
+E:\LTIC#\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CoreCompileInputs.cache
+E:\LTIC#\MiniProject\MiniProject\obj\Debug\MiniProject.exe
+E:\LTIC#\MiniProject\MiniProject\obj\Debug\MiniProject.pdb

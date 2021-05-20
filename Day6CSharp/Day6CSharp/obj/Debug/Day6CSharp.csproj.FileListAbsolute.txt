@@ -1,0 +1,7 @@
+E:\LTIC#\Day6CSharp\Day6CSharp\bin\Debug\Day6CSharp.exe.config
+E:\LTIC#\Day6CSharp\Day6CSharp\bin\Debug\Day6CSharp.exe
+E:\LTIC#\Day6CSharp\Day6CSharp\bin\Debug\Day6CSharp.pdb
+E:\LTIC#\Day6CSharp\Day6CSharp\obj\Debug\Day6CSharp.csprojAssemblyReference.cache
+E:\LTIC#\Day6CSharp\Day6CSharp\obj\Debug\Day6CSharp.csproj.CoreCompileInputs.cache
+E:\LTIC#\Day6CSharp\Day6CSharp\obj\Debug\Day6CSharp.exe
+E:\LTIC#\Day6CSharp\Day6CSharp\obj\Debug\Day6CSharp.pdb

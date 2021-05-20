@@ -1,0 +1,7 @@
+E:\LTIC#\Day7TransactionScope\Day7TransactionScope\bin\Debug\Day7TransactionScope.exe.config
+E:\LTIC#\Day7TransactionScope\Day7TransactionScope\bin\Debug\Day7TransactionScope.exe
+E:\LTIC#\Day7TransactionScope\Day7TransactionScope\bin\Debug\Day7TransactionScope.pdb
+E:\LTIC#\Day7TransactionScope\Day7TransactionScope\obj\Debug\Day7TransactionScope.csprojAssemblyReference.cache
+E:\LTIC#\Day7TransactionScope\Day7TransactionScope\obj\Debug\Day7TransactionScope.csproj.CoreCompileInputs.cache
+E:\LTIC#\Day7TransactionScope\Day7TransactionScope\obj\Debug\Day7TransactionScope.exe
+E:\LTIC#\Day7TransactionScope\Day7TransactionScope\obj\Debug\Day7TransactionScope.pdb

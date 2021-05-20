@@ -1,0 +1,7 @@
+E:\LTIC#\BasicsAssignment\BasicsAssignment\obj\Debug\BasicsAssignment.csprojAssemblyReference.cache
+E:\LTIC#\BasicsAssignment\BasicsAssignment\obj\Debug\BasicsAssignment.csproj.CoreCompileInputs.cache
+E:\LTIC#\BasicsAssignment\BasicsAssignment\bin\Debug\BasicsAssignment.exe.config
+E:\LTIC#\BasicsAssignment\BasicsAssignment\bin\Debug\BasicsAssignment.exe
+E:\LTIC#\BasicsAssignment\BasicsAssignment\bin\Debug\BasicsAssignment.pdb
+E:\LTIC#\BasicsAssignment\BasicsAssignment\obj\Debug\BasicsAssignment.exe
+E:\LTIC#\BasicsAssignment\BasicsAssignment\obj\Debug\BasicsAssignment.pdb

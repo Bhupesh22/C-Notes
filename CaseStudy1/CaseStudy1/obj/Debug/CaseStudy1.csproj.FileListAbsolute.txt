@@ -1,0 +1,7 @@
+E:\LTIC#\CaseStudy1\CaseStudy1\bin\Debug\CaseStudy1.exe.config
+E:\LTIC#\CaseStudy1\CaseStudy1\bin\Debug\CaseStudy1.exe
+E:\LTIC#\CaseStudy1\CaseStudy1\bin\Debug\CaseStudy1.pdb
+E:\LTIC#\CaseStudy1\CaseStudy1\obj\Debug\CaseStudy1.csprojAssemblyReference.cache
+E:\LTIC#\CaseStudy1\CaseStudy1\obj\Debug\CaseStudy1.csproj.CoreCompileInputs.cache
+E:\LTIC#\CaseStudy1\CaseStudy1\obj\Debug\CaseStudy1.exe
+E:\LTIC#\CaseStudy1\CaseStudy1\obj\Debug\CaseStudy1.pdb

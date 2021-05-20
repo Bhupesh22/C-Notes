@@ -1,0 +1,6 @@
+E:\LTIC#\TestingExe\TestingExe\bin\Debug\TestingExe.exe.config
+E:\LTIC#\TestingExe\TestingExe\bin\Debug\TestingExe.exe
+E:\LTIC#\TestingExe\TestingExe\bin\Debug\TestingExe.pdb
+E:\LTIC#\TestingExe\TestingExe\obj\Debug\TestingExe.csproj.CoreCompileInputs.cache
+E:\LTIC#\TestingExe\TestingExe\obj\Debug\TestingExe.exe
+E:\LTIC#\TestingExe\TestingExe\obj\Debug\TestingExe.pdb

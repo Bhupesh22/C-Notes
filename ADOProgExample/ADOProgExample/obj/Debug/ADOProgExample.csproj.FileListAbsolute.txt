@@ -1,0 +1,7 @@
+E:\LTIC#\ADOProgExample\ADOProgExample\bin\Debug\ADOProgExample.exe.config
+E:\LTIC#\ADOProgExample\ADOProgExample\bin\Debug\ADOProgExample.exe
+E:\LTIC#\ADOProgExample\ADOProgExample\bin\Debug\ADOProgExample.pdb
+E:\LTIC#\ADOProgExample\ADOProgExample\obj\Debug\ADOProgExample.csprojAssemblyReference.cache
+E:\LTIC#\ADOProgExample\ADOProgExample\obj\Debug\ADOProgExample.csproj.CoreCompileInputs.cache
+E:\LTIC#\ADOProgExample\ADOProgExample\obj\Debug\ADOProgExample.exe
+E:\LTIC#\ADOProgExample\ADOProgExample\obj\Debug\ADOProgExample.pdb

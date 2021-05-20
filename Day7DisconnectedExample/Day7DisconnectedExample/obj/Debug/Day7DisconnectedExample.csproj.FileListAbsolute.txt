@@ -1,0 +1,7 @@
+E:\LTIC#\Day7DisconnectedExample\Day7DisconnectedExample\bin\Debug\Day7DisconnectedExample.exe.config
+E:\LTIC#\Day7DisconnectedExample\Day7DisconnectedExample\bin\Debug\Day7DisconnectedExample.exe
+E:\LTIC#\Day7DisconnectedExample\Day7DisconnectedExample\bin\Debug\Day7DisconnectedExample.pdb
+E:\LTIC#\Day7DisconnectedExample\Day7DisconnectedExample\obj\Debug\Day7DisconnectedExample.csprojAssemblyReference.cache
+E:\LTIC#\Day7DisconnectedExample\Day7DisconnectedExample\obj\Debug\Day7DisconnectedExample.csproj.CoreCompileInputs.cache
+E:\LTIC#\Day7DisconnectedExample\Day7DisconnectedExample\obj\Debug\Day7DisconnectedExample.exe
+E:\LTIC#\Day7DisconnectedExample\Day7DisconnectedExample\obj\Debug\Day7DisconnectedExample.pdb

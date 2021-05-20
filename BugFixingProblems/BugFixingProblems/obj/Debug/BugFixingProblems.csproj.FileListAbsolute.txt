@@ -1,0 +1,7 @@
+E:\LTIC#\BugFixingProblems\BugFixingProblems\bin\Debug\BugFixingProblems.exe.config
+E:\LTIC#\BugFixingProblems\BugFixingProblems\bin\Debug\BugFixingProblems.exe
+E:\LTIC#\BugFixingProblems\BugFixingProblems\bin\Debug\BugFixingProblems.pdb
+E:\LTIC#\BugFixingProblems\BugFixingProblems\obj\Debug\BugFixingProblems.csprojAssemblyReference.cache
+E:\LTIC#\BugFixingProblems\BugFixingProblems\obj\Debug\BugFixingProblems.csproj.CoreCompileInputs.cache
+E:\LTIC#\BugFixingProblems\BugFixingProblems\obj\Debug\BugFixingProblems.exe
+E:\LTIC#\BugFixingProblems\BugFixingProblems\obj\Debug\BugFixingProblems.pdb

@@ -1,0 +1,13 @@
+E:\LTIC#\Solution\FirstApplicationProgram\bin\Debug\netcoreapp3.1\FirstApplicationProgram.exe
+E:\LTIC#\Solution\FirstApplicationProgram\bin\Debug\netcoreapp3.1\FirstApplicationProgram.deps.json
+E:\LTIC#\Solution\FirstApplicationProgram\bin\Debug\netcoreapp3.1\FirstApplicationProgram.runtimeconfig.json
+E:\LTIC#\Solution\FirstApplicationProgram\bin\Debug\netcoreapp3.1\FirstApplicationProgram.runtimeconfig.dev.json
+E:\LTIC#\Solution\FirstApplicationProgram\bin\Debug\netcoreapp3.1\FirstApplicationProgram.dll
+E:\LTIC#\Solution\FirstApplicationProgram\bin\Debug\netcoreapp3.1\FirstApplicationProgram.pdb
+E:\LTIC#\Solution\FirstApplicationProgram\obj\Debug\netcoreapp3.1\FirstApplicationProgram.csprojAssemblyReference.cache
+E:\LTIC#\Solution\FirstApplicationProgram\obj\Debug\netcoreapp3.1\FirstApplicationProgram.AssemblyInfoInputs.cache
+E:\LTIC#\Solution\FirstApplicationProgram\obj\Debug\netcoreapp3.1\FirstApplicationProgram.AssemblyInfo.cs
+E:\LTIC#\Solution\FirstApplicationProgram\obj\Debug\netcoreapp3.1\FirstApplicationProgram.csproj.CoreCompileInputs.cache
+E:\LTIC#\Solution\FirstApplicationProgram\obj\Debug\netcoreapp3.1\FirstApplicationProgram.dll
+E:\LTIC#\Solution\FirstApplicationProgram\obj\Debug\netcoreapp3.1\FirstApplicationProgram.pdb
+E:\LTIC#\Solution\FirstApplicationProgram\obj\Debug\netcoreapp3.1\FirstApplicationProgram.genruntimeconfig.cache

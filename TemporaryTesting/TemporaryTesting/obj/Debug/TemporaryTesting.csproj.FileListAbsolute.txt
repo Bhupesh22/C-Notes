@@ -1,0 +1,7 @@
+E:\LTIC#\TemporaryTesting\TemporaryTesting\bin\Debug\TemporaryTesting.exe.config
+E:\LTIC#\TemporaryTesting\TemporaryTesting\bin\Debug\TemporaryTesting.exe
+E:\LTIC#\TemporaryTesting\TemporaryTesting\bin\Debug\TemporaryTesting.pdb
+E:\LTIC#\TemporaryTesting\TemporaryTesting\obj\Debug\TemporaryTesting.csprojAssemblyReference.cache
+E:\LTIC#\TemporaryTesting\TemporaryTesting\obj\Debug\TemporaryTesting.csproj.CoreCompileInputs.cache
+E:\LTIC#\TemporaryTesting\TemporaryTesting\obj\Debug\TemporaryTesting.exe
+E:\LTIC#\TemporaryTesting\TemporaryTesting\obj\Debug\TemporaryTesting.pdb

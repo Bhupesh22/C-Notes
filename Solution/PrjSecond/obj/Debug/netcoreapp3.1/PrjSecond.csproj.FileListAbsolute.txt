@@ -1,0 +1,13 @@
+E:\LTIC#\Solution\PrjSecond\bin\Debug\netcoreapp3.1\PrjSecond.exe
+E:\LTIC#\Solution\PrjSecond\bin\Debug\netcoreapp3.1\PrjSecond.deps.json
+E:\LTIC#\Solution\PrjSecond\bin\Debug\netcoreapp3.1\PrjSecond.runtimeconfig.json
+E:\LTIC#\Solution\PrjSecond\bin\Debug\netcoreapp3.1\PrjSecond.runtimeconfig.dev.json
+E:\LTIC#\Solution\PrjSecond\bin\Debug\netcoreapp3.1\PrjSecond.dll
+E:\LTIC#\Solution\PrjSecond\bin\Debug\netcoreapp3.1\PrjSecond.pdb
+E:\LTIC#\Solution\PrjSecond\obj\Debug\netcoreapp3.1\PrjSecond.csprojAssemblyReference.cache
+E:\LTIC#\Solution\PrjSecond\obj\Debug\netcoreapp3.1\PrjSecond.AssemblyInfoInputs.cache
+E:\LTIC#\Solution\PrjSecond\obj\Debug\netcoreapp3.1\PrjSecond.AssemblyInfo.cs
+E:\LTIC#\Solution\PrjSecond\obj\Debug\netcoreapp3.1\PrjSecond.csproj.CoreCompileInputs.cache
+E:\LTIC#\Solution\PrjSecond\obj\Debug\netcoreapp3.1\PrjSecond.dll
+E:\LTIC#\Solution\PrjSecond\obj\Debug\netcoreapp3.1\PrjSecond.pdb
+E:\LTIC#\Solution\PrjSecond\obj\Debug\netcoreapp3.1\PrjSecond.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+E:\LTIC#\Assignment22Oct\Assignment22Oct\bin\Debug\Assignment22Oct.exe.config
+E:\LTIC#\Assignment22Oct\Assignment22Oct\bin\Debug\Assignment22Oct.exe
+E:\LTIC#\Assignment22Oct\Assignment22Oct\bin\Debug\Assignment22Oct.pdb
+E:\LTIC#\Assignment22Oct\Assignment22Oct\obj\Debug\Assignment22Oct.csprojAssemblyReference.cache
+E:\LTIC#\Assignment22Oct\Assignment22Oct\obj\Debug\Assignment22Oct.csproj.CoreCompileInputs.cache
+E:\LTIC#\Assignment22Oct\Assignment22Oct\obj\Debug\Assignment22Oct.exe
+E:\LTIC#\Assignment22Oct\Assignment22Oct\obj\Debug\Assignment22Oct.pdb

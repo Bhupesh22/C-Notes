@@ -1,0 +1,7 @@
+E:\LTIC#\Day8Assignment\Day8Assignment\bin\Debug\Day8Assignment.exe.config
+E:\LTIC#\Day8Assignment\Day8Assignment\bin\Debug\Day8Assignment.exe
+E:\LTIC#\Day8Assignment\Day8Assignment\bin\Debug\Day8Assignment.pdb
+E:\LTIC#\Day8Assignment\Day8Assignment\obj\Debug\Day8Assignment.csproj.CoreCompileInputs.cache
+E:\LTIC#\Day8Assignment\Day8Assignment\obj\Debug\Day8Assignment.exe
+E:\LTIC#\Day8Assignment\Day8Assignment\obj\Debug\Day8Assignment.pdb
+E:\LTIC#\Day8Assignment\Day8Assignment\obj\Debug\Day8Assignment.csprojAssemblyReference.cache

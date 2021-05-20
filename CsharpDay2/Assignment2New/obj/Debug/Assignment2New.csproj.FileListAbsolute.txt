@@ -1,0 +1,7 @@
+E:\LTIC#\CsharpDay2\Assignment2New\bin\Debug\Assignment2New.exe.config
+E:\LTIC#\CsharpDay2\Assignment2New\bin\Debug\Assignment2New.exe
+E:\LTIC#\CsharpDay2\Assignment2New\bin\Debug\Assignment2New.pdb
+E:\LTIC#\CsharpDay2\Assignment2New\obj\Debug\Assignment2New.csprojAssemblyReference.cache
+E:\LTIC#\CsharpDay2\Assignment2New\obj\Debug\Assignment2New.csproj.CoreCompileInputs.cache
+E:\LTIC#\CsharpDay2\Assignment2New\obj\Debug\Assignment2New.exe
+E:\LTIC#\CsharpDay2\Assignment2New\obj\Debug\Assignment2New.pdb

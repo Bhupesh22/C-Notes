@@ -1,0 +1,7 @@
+E:\LTIC#\CsharpDay2\Inheritance\bin\Debug\Inheritance.exe.config
+E:\LTIC#\CsharpDay2\Inheritance\bin\Debug\Inheritance.exe
+E:\LTIC#\CsharpDay2\Inheritance\bin\Debug\Inheritance.pdb
+E:\LTIC#\CsharpDay2\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+E:\LTIC#\CsharpDay2\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+E:\LTIC#\CsharpDay2\Inheritance\obj\Debug\Inheritance.exe
+E:\LTIC#\CsharpDay2\Inheritance\obj\Debug\Inheritance.pdb

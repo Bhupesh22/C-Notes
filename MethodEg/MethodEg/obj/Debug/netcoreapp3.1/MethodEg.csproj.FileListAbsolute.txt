@@ -1,0 +1,13 @@
+E:\LTIC#\MethodEg\MethodEg\bin\Debug\netcoreapp3.1\MethodEg.exe
+E:\LTIC#\MethodEg\MethodEg\bin\Debug\netcoreapp3.1\MethodEg.deps.json
+E:\LTIC#\MethodEg\MethodEg\bin\Debug\netcoreapp3.1\MethodEg.runtimeconfig.json
+E:\LTIC#\MethodEg\MethodEg\bin\Debug\netcoreapp3.1\MethodEg.runtimeconfig.dev.json
+E:\LTIC#\MethodEg\MethodEg\bin\Debug\netcoreapp3.1\MethodEg.dll
+E:\LTIC#\MethodEg\MethodEg\bin\Debug\netcoreapp3.1\MethodEg.pdb
+E:\LTIC#\MethodEg\MethodEg\obj\Debug\netcoreapp3.1\MethodEg.csprojAssemblyReference.cache
+E:\LTIC#\MethodEg\MethodEg\obj\Debug\netcoreapp3.1\MethodEg.AssemblyInfoInputs.cache
+E:\LTIC#\MethodEg\MethodEg\obj\Debug\netcoreapp3.1\MethodEg.AssemblyInfo.cs
+E:\LTIC#\MethodEg\MethodEg\obj\Debug\netcoreapp3.1\MethodEg.csproj.CoreCompileInputs.cache
+E:\LTIC#\MethodEg\MethodEg\obj\Debug\netcoreapp3.1\MethodEg.dll
+E:\LTIC#\MethodEg\MethodEg\obj\Debug\netcoreapp3.1\MethodEg.pdb
+E:\LTIC#\MethodEg\MethodEg\obj\Debug\netcoreapp3.1\MethodEg.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+E:\LTIC#\Day8Linq\Day8Linq\bin\Debug\Day8Linq.exe.config
+E:\LTIC#\Day8Linq\Day8Linq\bin\Debug\Day8Linq.exe
+E:\LTIC#\Day8Linq\Day8Linq\bin\Debug\Day8Linq.pdb
+E:\LTIC#\Day8Linq\Day8Linq\obj\Debug\Day8Linq.csprojAssemblyReference.cache
+E:\LTIC#\Day8Linq\Day8Linq\obj\Debug\Day8Linq.csproj.CoreCompileInputs.cache
+E:\LTIC#\Day8Linq\Day8Linq\obj\Debug\Day8Linq.exe
+E:\LTIC#\Day8Linq\Day8Linq\obj\Debug\Day8Linq.pdb

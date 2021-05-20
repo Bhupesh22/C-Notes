@@ -1,0 +1,7 @@
+E:\LTIC#\Day4Csharp\Day4Csharp\bin\Debug\Day4Csharp.exe.config
+E:\LTIC#\Day4Csharp\Day4Csharp\bin\Debug\Day4Csharp.exe
+E:\LTIC#\Day4Csharp\Day4Csharp\bin\Debug\Day4Csharp.pdb
+E:\LTIC#\Day4Csharp\Day4Csharp\obj\Debug\Day4Csharp.csprojAssemblyReference.cache
+E:\LTIC#\Day4Csharp\Day4Csharp\obj\Debug\Day4Csharp.csproj.CoreCompileInputs.cache
+E:\LTIC#\Day4Csharp\Day4Csharp\obj\Debug\Day4Csharp.exe
+E:\LTIC#\Day4Csharp\Day4Csharp\obj\Debug\Day4Csharp.pdb
